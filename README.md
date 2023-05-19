@@ -27,6 +27,7 @@ causal_clustering.discovery_advertised_address=10.10.0.3:5000
 causal_clustering.transaction_advertised_address=10.10.0.3:6000
 causal_clustering.raft_advertised_address=10.10.0.3:7000
 ```
+```
 #ROLE
 dbms.mode=CORE
 #CLUSTERING-NODE3
@@ -38,4 +39,5 @@ causal_clustering.discovery_advertised_address=10.10.0.4:5000
 causal_clustering.transaction_advertised_address=10.10.0.4:6000
 causal_clustering.raft_advertised_address=10.10.0.4:7000
 ```
+
 <img width="418" alt="image" src="https://github.com/git-raka/Clustering_Neo4j/assets/77326619/04da5d57-654e-4a5f-9093-729f20cd2b3d">
